@@ -1,7 +1,11 @@
 <h3> Hi 👋, I'm Adam! <br/> I'm a developer, engineer, and CS student at UC Davis. Based in north California. </h3> 
-This is my new github account!
 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adamye2025@gmail.com)
+<div>
+  <p>This is my new GitHub account!</p>
+  <a href="mailto:adamye2025@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+  </a>
+</div>
 
 ###
 
@@ -10,10 +14,10 @@ This is my new github account!
 ###
 
 <div style="display: flex; justify-content: space-between; width: 100%;">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Adamy8&theme=blueberry&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adamy8&theme=blueberry&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Adamy8&theme=blueberry&hide_border=true&include_all_commits=false&count_private=false" height="170" />
-</div>-
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Adamy8&theme=blueberry&hide_border=true" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adamy8&theme=blueberry&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="175"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Adamy8&theme=blueberry&hide_border=true&include_all_commits=false&count_private=false" height="175" />
+</div>
 
 <!-- ![](https://nirzak-streak-stats.vercel.app/?user=Adamy8&theme=blueberry&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api?username=Adamy8&theme=blueberry&hide_border=true&include_all_commits=false&count_private=false)<br/>
