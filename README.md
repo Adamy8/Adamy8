@@ -1,4 +1,4 @@
-<h2> Hi 👋, I'm Adam! <br/> I'm a developer, engineer, and CS student at UC Davis. Based in north California. </h2>
+<h3> Hi 👋, I'm Adam! <br/> I'm a developer, engineer, and CS student at UC Davis. Based in north California. </h3> This is my new github account!
 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adamye2025@gmail.com) 
 
