@@ -9,9 +9,11 @@
 ###
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=Adamy8&theme=blueberry&hide_border=true&include_all_commits=false&count_private=false)<br/> -->
-![](https://nirzak-streak-stats.vercel.app/?user=Adamy8&theme=blueberry&hide_border=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Adamy8&theme=blueberry&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Adamy8&theme=blueberry&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ___
+
+<!-- [![](https://visitcount.itsvg.in/api?id=Adamy8&icon=0&color=0)](https://visitcount.itsvg.in) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ). Shout out to them! -->
