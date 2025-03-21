@@ -1,4 +1,4 @@
-<h3> Hi 👋, I'm Adam! <br/> I'm a developer, engineer, and CS student at UC Davis. Based in north California. </h3> 
+<h3> Hi 👋, I'm Adam! <br/> I'm a developer, engineer, and CS student at UC Davis. Based in north California and NYC. </h3> 
 
 <div>
   <p>This is my new GitHub account!</p>
@@ -27,4 +27,4 @@ ___
 
 <!-- [![](https://visitcount.itsvg.in/api?id=Adamy8&icon=0&color=0)](https://visitcount.itsvg.in) -->
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ). Shout out to them! -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ). -->
